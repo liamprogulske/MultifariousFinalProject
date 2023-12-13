@@ -1,0 +1,53 @@
+.logo-container {
+  width: 100px; /* Adjust the width as per your preference */
+  height: auto; /* Maintain the aspect ratio */
+  margin-right: 10px; /* Add spacing between the logo and app title */
+}
+
+.logo {
+  width: 100%;
+  height: auto;
+}
+
+/* Header */
+.header {
+  padding: 20px;
+}
+
+.app-title {
+  font-size: 24px;
+}
+
+.logo {
+  max-width: 100%;
+  height: auto;
+}
+
+.logo-left {
+  margin-right: 10px;
+}
+
+.logo-right {
+  margin-left: 10px;
+}
+
+.navbar-nav {
+  margin-left: auto;
+}
+
+.nav-item {
+  display: inline-block;
+  margin-left: 15px;
+}
+
+.nav-link {
+  color: #fff;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+}
+
+/* Sidebar */
